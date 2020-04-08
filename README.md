@@ -3,6 +3,7 @@ A python script that simulates a population evolving over multiple generations a
 used to display a few data points that are worth seeing.
 
 Parameters:
+
 •  𝑙, the length of the binary string of “genes” 
 •  𝑁, the number of individuals in the population 
 •  𝐺, the number of generations 
