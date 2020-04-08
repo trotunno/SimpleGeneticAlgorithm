@@ -11,4 +11,4 @@ Parameters:
 *  𝑝𝑐, the probability of two parents crossing their genes upon reproduction 
 
 These are globals listed at the beginning of the script. Feel free to change them, and read the report included in the repository
-to see what the fitness functino is and how changing the parameters can affect the outcome!
+to see what the fitness function is and how changing the parameters can affect the outcome!
